@@ -1,8 +1,7 @@
 # Formularios
 
-Hoje Aprendemos novos comandos de HTML, Criamos formulario de usuario e senha
-Exemplo:
-
+Hoje Aprendemos novos comandos de HTML, Criamos formulario para cadastro de informações como:endereco,usuario,senha,email etc..
+Comandos executador e significados:
 
 ```<form>```
 representa uma seção de um documento que contém controles interativos que permitem ao usuário submeter informação a um determinado servidor web.
